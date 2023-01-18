@@ -1,16 +1,14 @@
-### Hi there 👋
+```py
+from GitHub import ReadMe
 
-<!--
-**XcidPlayZ/XcidPlayZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+class Xcid(ReadMe):
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    def __init__(self):
+        self.name = "Xcid"
+        self.social = {
+            "discord": {
+                "username": "XcidPlayZ"
+            }
+        }
+        self.location = "unknown"
+        self.age = "unknown"```
