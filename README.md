@@ -7,7 +7,7 @@ class Xcid(ReadMe):
         self.name = "Xcid"
         self.social = {
             "discord": {
-                "username": "XcidPlayZ"
+                "username": "XcidPlayZ#9386"
             }
         }
         self.location = "unknown"
